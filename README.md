@@ -1,4 +1,4 @@
-# UPI Transactions Dashboard
+UPI Transactions Dashboard
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze UPI transaction data. This involved data preprocessing, data cleaning, and data visualization.
 A real-time overview of UPI (Unified Payments Interface) transaction data, built in Microsoft Excel using PivotTables, PivotCharts, slicers, and conditional formatting. The dashboard provides a 360° view of transaction volume, value, success/failure rates, fraud detection, and behavioral patterns across banks, apps, states, and time.
 ![Dashboard Preview](output.png)
