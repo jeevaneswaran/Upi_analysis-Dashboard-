@@ -63,7 +63,7 @@ Clone the repo:
 ```bash
    git clone https://github.com/jeevaneswaran/Upi_analysis-Dashboard-.git
    ```
-Open `Upi_analysis-Dashboard.xlsx` in Excel (2016+ recommended for full PivotTable/Slicer support).
+Open `phonepay_raw_data.mov.xlsx` in Excel (2021+ recommended for full PivotTable/Slicer support).
 Use the slicers to filter by City, Gender, Merchant Category, or Merchant Name.
 Charts and KPIs update dynamically with your filter selections.
 ---
